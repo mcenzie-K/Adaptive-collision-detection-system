@@ -9,6 +9,6 @@ Built as part of Smart India Hackathon 2026 (Problem Statement SIH26037, sponsor
 
 ## Demo
 
-![Adaptive Path Planning Demo](./adaptive_path_planning_demo.gif)
+[adaptive Path Planning Demo](./adaptive_path_planning_demo.gif)
 
 *Red path = original A* plan | Green sensor circle = detection range | Red reroute = real-time replanning after obstacle detection*
